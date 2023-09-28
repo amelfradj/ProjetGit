@@ -4,6 +4,8 @@
 }
 body {
    width: 90%;
+   margin-left: 60px;
+   margin-right: 60px;
    color: #fff;
    font-style: initial;
 }
@@ -11,10 +13,32 @@ header{
     background-color: lightslategray;
     height: 60px;
     margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.section1 {
+.section-1 {
+    background-image: url("../img/phote1.png");
+    height: 400px;
+    margin: 20px; display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.section-2 {
     background-color: lightseagreen;
     height: 400px;
     margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer {
+    background-color: lightgrey;
+    margin: 20px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
     text-align: center;
+    align-items: center;
 }
