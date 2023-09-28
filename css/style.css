@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+   width: 90%;
+   color: #fff;
+   font-style: initial;
+}
+header{
+    background-color: lightslategray;
+    height: 60px;
+    margin: 20px;
+}
+.section1 {
+    background-color: lightseagreen;
+    height: 400px;
+    margin: 20px;
+    text-align: center;
+}
